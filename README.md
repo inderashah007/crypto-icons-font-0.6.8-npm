@@ -1,7 +1,5 @@
 # crypto-icons-font-0.6.8-npm
 
-# cryptocurrency-icons-font
-
 > A webfont for cryptocurrency symbols
 
 ## for example and need more update ,,
